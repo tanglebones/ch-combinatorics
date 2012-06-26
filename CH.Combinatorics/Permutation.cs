@@ -22,8 +22,6 @@ namespace CH.Combinatorics
                     var subSet = concEnumerable.AllExceptAt(index);
                     foreach (var subPermute in Permute(subSet))
                         yield return new[] {newFirst}.Concat(subPermute);
-
-                    ++index;
                 }
             }
         }

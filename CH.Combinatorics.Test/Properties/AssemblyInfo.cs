@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CH.Combinatorics")]
+[assembly: AssemblyTitle("CH.Combinatorics.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Clifford Hammerschmidt")]
-[assembly: AssemblyProduct("CH.Combinatorics")]
+[assembly: AssemblyProduct("CH.Combinatorics.Test")]
 [assembly: AssemblyCopyright("Copyright © Clifford Hammerschmidt 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("354c2e08-52fe-43ac-93bb-62c458da7dd0")]
+[assembly: Guid("dc32cd58-f831-41c8-a237-4d7ce1d2bd44")]
 
 // Version information for an assembly consists of the following four values:
 //
